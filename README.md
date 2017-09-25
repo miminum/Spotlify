@@ -18,6 +18,11 @@ Streaming music service.
 - (album)
 - (genre)
 
+### Display artist songs on their page
+### Add a colour scheme to the site
+### Display songs from different decades in a different colour scheme
+### Add a play count model to the app, which you increment on a song's #show page. Then add a top 10 songs page. 
+
 
 ## Playlists
 - name: string

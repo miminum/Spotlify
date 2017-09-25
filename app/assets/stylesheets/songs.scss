@@ -1,3 +1,19 @@
 // Place all the styles related to the Songs controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.sixties > td {
+    color: maroon;
+}
+.seventies > td {
+    color: navy;
+}
+.eighties > td {
+    color: forestgreen;
+}
+.nineties > td {
+    color: coral;
+}
+.modern > td {
+    color: white;
+}

@@ -13,3 +13,57 @@
  *= require_tree .
  *= require_self
  */
+body {
+    background-color: gray;
+}
+h1, h2 {
+    color: dodgerblue;
+}
+p {
+    color: black;
+}
+
+h2 > a {
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+h2 > a:visited {
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+h2 > a:hover {
+    color: blue;
+    background: none;
+}
+
+p > a {
+    color: black;
+    text-decoration: none;
+}
+p > a:visited {
+    color: black;
+    text-decoration: none;
+}
+p > a:hover {
+    color: coral;
+    background: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+input {
+    border-radius: 2px;
+    font-size: 14px;
+}
+
+#artist_bio {
+    min-height: 200px;
+    font-size: 14px;
+}
+table {
+    color: black;
+}
